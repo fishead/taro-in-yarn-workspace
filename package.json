@@ -1,0 +1,13 @@
+{
+  "name": "taro-in-yarn-workspace",
+  "description": "taro app in yarn workspace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:fishead/taro-in-yarn-workspace.git",
+  "author": "Chuan Zh. <zhchuan7@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
